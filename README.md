@@ -1,5 +1,5 @@
 - 👋 olá, eu sou Ruth Pessoa.
-- 👀 Estou interessada em desenvolvimento Web.
+- 👀 Tenho interesse em desenvolvimento Web.
 - 🌱 Estudando HTML e JavaScript.
 
 
