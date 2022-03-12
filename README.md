@@ -1,6 +1,6 @@
 - 👋 olá, eu sou Ruth Pessoa.
 - 👀 Tenho interesse em desenvolvimento Web.
-- 🌱 Estudando HTML e JavaScript.
+- 🌱 Estudando HTML5, CSS3, JavaScript, Node.js, Git e Github.
 
 
 
