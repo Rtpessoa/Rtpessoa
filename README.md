@@ -1,6 +1,6 @@
 - 👋 olá, eu sou Ruth Pessoa.
-- 👀 Tenho interesse em desenvolvimento Web.
-- 🌱 Estudando HTML5, CSS3, JavaScript, Node.js, MySQL, Git e Github.
+- 👀 desenvolvedora front-end junior.
+- 🌱 Atualmente aprofundando os conhecimentos em typescript e testes com Jest.
 
 
 
