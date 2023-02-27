@@ -1,6 +1,6 @@
 - 👋 olá, eu sou Ruth Pessoa.
 - 👀 desenvolvedora front-end junior.
-- 🌱 Atualmente aprofundando os conhecimentos em typescript e testes com Jest.
+
 
 
 
