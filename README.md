@@ -1,5 +1,5 @@
 - 👋 olá, eu sou Ruth Pessoa.
-- front-end developer at Grupo Boticário
+- front-end developer
 
 
 
